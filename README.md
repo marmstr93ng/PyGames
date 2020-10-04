@@ -2,6 +2,7 @@
 
 ## Game Ideas
 * Connect 4
+* Pong
 * Royal Game of Ur
 * Greek Alphabet
 * Rush Hour
